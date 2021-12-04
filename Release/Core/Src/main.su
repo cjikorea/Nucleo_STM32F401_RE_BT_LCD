@@ -1,0 +1,11 @@
+main.c:159:9:decToBcd	0	static
+main.c:163:5:bcdToDec	0	static
+main.c:232:6:Set_Time	40	static
+main.c:247:6:Get_Time	32	static
+main.c:170:6:DrawMainWindow	8	static
+main.c:271:6:MainBGImageDraw	0	static
+main.c:1323:6:MeasureTempHumi	32	static
+main.c:309:6:MainLCDDisplayMode	48	static
+main.c:1687:6:SystemClock_Config	88	static,ignoring_inline_asm
+main.c:1558:5:main	64	static,ignoring_inline_asm
+main.c:1907:6:Error_Handler	0	static,ignoring_inline_asm

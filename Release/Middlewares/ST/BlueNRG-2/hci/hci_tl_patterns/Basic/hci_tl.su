@@ -1,0 +1,6 @@
+hci_tl.c:131:13:move_list.constprop	24	static
+hci_tl.c:160:6:hci_init	16	static
+hci_tl.c:187:6:hci_register_io_bus	0	static
+hci_tl.c:197:5:hci_send_req	176	static
+hci_tl.c:337:6:hci_user_evt_proc	24	static
+hci_tl.c:355:9:hci_notify_asynch_evt	24	static

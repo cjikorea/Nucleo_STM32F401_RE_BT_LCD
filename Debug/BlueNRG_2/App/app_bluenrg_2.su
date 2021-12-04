@@ -1,0 +1,15 @@
+app_bluenrg_2.c:104:6:MX_BlueNRG_2_Init	16	static
+app_bluenrg_2.c:155:6:MX_BlueNRG_2_Process	8	static
+app_bluenrg_2.c:175:13:User_Init	8	static
+app_bluenrg_2.c:192:9:Sensor_DeviceInit	56	static
+app_bluenrg_2.c:368:13:User_Process	16	static
+app_bluenrg_2.c:452:13:Set_Random_Environmental_Values	32	static
+app_bluenrg_2.c:458:13:Set_TempHumi_Values	16	static
+app_bluenrg_2.c:471:13:Set_Random_Motion_Values	456	static
+app_bluenrg_2.c:512:13:Reset_Motion_Values	4	static
+app_bluenrg_2.c:535:9:getBlueNRGVersion	48	static
+app_bluenrg_2.c:559:6:BSP_PB_Callback	16	static
+app_bluenrg_2.c:572:6:hci_le_connection_complete_event	24	static
+app_bluenrg_2.c:594:6:hci_disconnection_complete_event	16	static
+app_bluenrg_2.c:613:6:aci_gatt_read_permit_req_event	16	static
+app_bluenrg_2.c:625:6:aci_gatt_attribute_modified_event	32	static

@@ -1,0 +1,8 @@
+app_bluenrg_2.c:155:6:MX_BlueNRG_2_Process	56	static
+app_bluenrg_2.c:535:9:getBlueNRGVersion	32	static
+app_bluenrg_2.c:104:6:MX_BlueNRG_2_Init	64	static
+app_bluenrg_2.c:559:6:BSP_PB_Callback	0	static
+app_bluenrg_2.c:572:6:hci_le_connection_complete_event	0	static
+app_bluenrg_2.c:594:6:hci_disconnection_complete_event	0	static
+app_bluenrg_2.c:613:6:aci_gatt_read_permit_req_event	0	static
+app_bluenrg_2.c:625:6:aci_gatt_attribute_modified_event	0	static

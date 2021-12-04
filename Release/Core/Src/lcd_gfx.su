@@ -1,0 +1,8 @@
+lcd_gfx.c:5:6:LCD_DrawHollowCircle	64	static
+lcd_gfx.c:36:6:LCD_DrawFilledCircle	64	static
+lcd_gfx.c:67:6:LCD_DrawHollowRectangleCoord	40	static
+lcd_gfx.c:105:6:LCD_DrawFilledRectangleCoord	16	static
+lcd_gfx.c:140:6:LCD_DrawChar	72	static
+lcd_gfx.c:188:6:LCD_DrawChar_s	64	static
+lcd_gfx.c:234:6:LCD_DrawText	56	static
+lcd_gfx.c:263:6:LCD_DrawText_s	40	static

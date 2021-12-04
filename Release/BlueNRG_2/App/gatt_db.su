@@ -1,0 +1,14 @@
+gatt_db.c:145:12:Add_HWServW2ST_Service	64	static
+gatt_db.c:197:12:Add_SWServW2ST_Service	48	static
+gatt_db.c:247:12:Add_TempHumi_Service	56	static
+gatt_db.c:297:12:Add_SetTime_Service	56	static
+gatt_db.c:434:12:Environmental_Update	32	static
+gatt_db.c:462:12:TempHumi_Update	32	static
+gatt_db.c:495:12:Acc_Update	48	static
+gatt_db.c:529:12:Quat_Update	24	static
+gatt_db.c:632:6:Read_TempHumi_CB	0	static
+gatt_db.c:644:6:Read_Request_CB	16	static
+gatt_db.c:688:6:Attribute_Modified_Request_CB	0	static
+gatt_db.c:935:5:SetTime_Request_CB	20	static
+gatt_db.c:967:6:Write_Request_CB	16	static
+gatt_db.c:986:6:Attribute_Modified_CB	16	static
